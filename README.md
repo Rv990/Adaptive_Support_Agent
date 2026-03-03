@@ -192,7 +192,8 @@ streamlit run app.py
 The app will start locally at:
 
 http://localhost:8501
-🏃 One-Line Quick Start (For Reviewers)
+
+## 🏃 One-Line Quick Start (For Reviewers)
 pip install -r requirements.txt && streamlit run app.py
 
 ---
