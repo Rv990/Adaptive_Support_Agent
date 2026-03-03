@@ -195,7 +195,7 @@ http://localhost:8501
 🏃 One-Line Quick Start (For Reviewers)
 pip install -r requirements.txt && streamlit run app.py
 
-
+---
 
 
 * 🧠 Turn this into a strong LinkedIn project showcase post
