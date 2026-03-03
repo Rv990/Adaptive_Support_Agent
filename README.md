@@ -176,17 +176,17 @@ Can be upgraded with:
 ---
 
 ## ⚙️ Installation & Usage
-1️⃣ Clone the Repository
+### 1️⃣ Clone the Repository
 git clone https://github.com/yourusername/adaptive-support-agent.git
 cd adaptive-support-agent
-2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 pip install -r requirements.txt
-3️⃣ Configure Environment Variables
+### 3️⃣ Configure Environment Variables
 
 Create a .env file in the root directory:
 
 GEMINI_API_KEY=your_api_key_here
-▶️ 4️⃣ Run the Application
+### 4️⃣ Run the Application
 streamlit run app.py
 
 The app will start locally at:
